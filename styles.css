@@ -1,12 +1,7 @@
 body{
-    /* background-image: url( images/waterfall11.jpg); */
-    /* background-image: url( images/waterfall26.jpg); */
     background-size: contain;
-    /* background-image: url(images/animal2.jpg); */
-    /* background-image: url(images/nature3.jpg); */
-    /* background-image: url( images/photo1.jpg); */
-    /* background-image: url( images/photo6.jpg); */
-    background-image: url( images/photo4.jpg);
+    /* background-image: url( images/photo4.jpg); */
+    background-image: url( images/back4.webp);
 }
 .welcometotheking{
     font-size: 70px;
@@ -16,17 +11,17 @@ body{
 .aboutme{
     font-size: 20px;
     text-align: right;
-    color: antiquewhite;
+    color: darkblue;
 }
 .bloginfo{
     font-size: 20px;
     text-align: right;
-    color: antiquewhite;
+    color: darkblue;
 }
 .acknowledgement{
     font-size: 20px;
     text-align: right;
-    color: antiquewhite;
+    color: darkblue;
 }
 .menu{
     color: brown;
@@ -36,23 +31,23 @@ body{
 }
 .homeacknowledge{
     font-size: 20px;
-    color: antiquewhite;
+    color: darkblue;
 }
 .homeaboutme{
     font-size: 20px;
-    color: antiquewhite;
+    color: darkblue;
 }
 .blogaboutme{
     font-size: 20px;
-    color: antiquewhite;
+    color: darkblue;
 }
 .homeaboutblog{
     font-size: 20px;
-    color: antiquewhite;
+    color: darkblue;
 }
 .aboutblog{
     font-size: 20px;
-    color: antiquewhite;
+    color: darkblue;
 }
 .proverb47aboutblog{
     font-size: 50px;
@@ -65,16 +60,16 @@ body{
 .wordsparagraphaboutblog{
     font-size: 20px;
     text-align: center;
-    color: antiquewhite;
+    color: darkblue;
 }
 .tableofcontentindex{
     font-size: 20px;
     text-align: right;
-    color: antiquewhite;
+    color: darkblue;
 }
 .homecontent{
     font-size: 20px;
-    color: antiquewhite;
+    color: darkblue;
 }
 .howtobuildarelationshipcontent{
     font-size: 20px;
@@ -82,19 +77,19 @@ body{
 }
 .basicfoundationcontent{
     font-size: 20px;
-    color: antiquewhite;
+    color: darkblue;
 }
 .basictechnologycontent{
     font-size: 20px;
-    color: antiquewhite;
+    color: darkblue;
 }
 .howtolivehealthy{
     font-size: 20px;
-    color: antiquewhite;
+    color: darkblue;
 }
 .isaiah517acknowledgement{
     font-size: 50px;
-    color: antiquewhite;
+    color: darkblue;
     font-style: italic;
     font-family: 'Times New Roman', Times, serif;
 }
@@ -121,7 +116,7 @@ body{
 }
 .tableofcontentbible{
     font-size: 20px;
-    color: antiquewhite;
+    color: darkblue;
 }
 .john112bible{
     font-style: italic;
@@ -130,24 +125,25 @@ body{
 }
 .ulbible{
     font-size: 20px;
-    background-image: url( images/bible1.jpg);
+    background-image: url( images/bible2.jpg);
     display: inline-block;
     font-weight: bolder;
     background-size: contain;
     font-style: italic;
     text-align: center;
+    color: black;
 }
 .tableofcontentaccounting{
     font-size: 20px;
-    color: antiquewhite;
+    color: darkblue;
 }
 .tableofcontenttechnology{
     font-size: 20px;
-    color: antiquewhite;
+    color: darkblue;
 }
 .tableofcontenthealth{
     font-size: 20px;
-    color: antiquewhite;
+    color: darkblue;
 }
 .proverb42022health{
     font-size: 50px;
