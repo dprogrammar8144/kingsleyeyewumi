@@ -1,0 +1,156 @@
+body{
+    /* background-image: url( images/waterfall11.jpg); */
+    /* background-image: url( images/waterfall26.jpg); */
+    background-size: contain;
+    /* background-image: url(images/animal2.jpg); */
+    /* background-image: url(images/nature3.jpg); */
+    /* background-image: url( images/photo1.jpg); */
+    /* background-image: url( images/photo6.jpg); */
+    background-image: url( images/photo4.jpg);
+}
+.welcometotheking{
+    font-size: 70px;
+    color: darkblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.aboutme{
+    font-size: 20px;
+    text-align: right;
+    color: antiquewhite;
+}
+.bloginfo{
+    font-size: 20px;
+    text-align: right;
+    color: antiquewhite;
+}
+.acknowledgement{
+    font-size: 20px;
+    text-align: right;
+    color: antiquewhite;
+}
+.menu{
+    color: brown;
+    text-align: left;
+    /* background-color: darkblue; */
+    /* display: inline-block; */
+}
+.homeacknowledge{
+    font-size: 20px;
+    color: antiquewhite;
+}
+.homeaboutme{
+    font-size: 20px;
+    color: antiquewhite;
+}
+.blogaboutme{
+    font-size: 20px;
+    color: antiquewhite;
+}
+.homeaboutblog{
+    font-size: 20px;
+    color: antiquewhite;
+}
+.aboutblog{
+    font-size: 20px;
+    color: antiquewhite;
+}
+.proverb47aboutblog{
+    font-size: 50px;
+    color: darkcyan;
+}
+.allyouneedaboutblog{
+    text-align: center;
+    font-size: 50px;
+}
+.wordsparagraphaboutblog{
+    font-size: 20px;
+    text-align: center;
+    color: antiquewhite;
+}
+.tableofcontentindex{
+    font-size: 20px;
+    text-align: right;
+    color: antiquewhite;
+}
+.homecontent{
+    font-size: 20px;
+    color: antiquewhite;
+}
+.howtobuildarelationshipcontent{
+    font-size: 20px;
+    color: black;
+}
+.basicfoundationcontent{
+    font-size: 20px;
+    color: antiquewhite;
+}
+.basictechnologycontent{
+    font-size: 20px;
+    color: antiquewhite;
+}
+.howtolivehealthy{
+    font-size: 20px;
+    color: antiquewhite;
+}
+.isaiah517acknowledgement{
+    font-size: 50px;
+    color: antiquewhite;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+.knowledgeacknowledgement{
+    text-align: center;
+    font-size: 80px;
+}
+.paragraphonknowledgeacknowledgement{
+    font-weight: bolder;
+    color: aqua;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    font-style: italic;
+}
+.youstandachanceindex{
+    color: darkblue;
+    text-align: center;
+}
+.tableindex{
+    font-size: 20px;
+    text-align: center;
+    /* background-color: antiquewhite; */
+}
+.tableofcontentbible{
+    font-size: 20px;
+    color: antiquewhite;
+}
+.john112bible{
+    font-style: italic;
+    font-size: 50px;
+    color: darkred;
+}
+.ulbible{
+    font-size: 20px;
+    background-image: url( images/bible1.jpg);
+    display: inline-block;
+    font-weight: bolder;
+    background-size: contain;
+    font-style: italic;
+    text-align: center;
+}
+.tableofcontentaccounting{
+    font-size: 20px;
+    color: antiquewhite;
+}
+.tableofcontenttechnology{
+    font-size: 20px;
+    color: antiquewhite;
+}
+.tableofcontenthealth{
+    font-size: 20px;
+    color: antiquewhite;
+}
+.proverb42022health{
+    font-size: 50px;
+    font-style: italic;
+
+}
