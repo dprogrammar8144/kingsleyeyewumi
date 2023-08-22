@@ -11,17 +11,24 @@ body{
 .aboutme{
     font-size: 20px;
     text-align: right;
-    color: darkblue;
+    color: gold;
+    display: inline-block;
+    background-color: darkblue;
 }
 .bloginfo{
     font-size: 20px;
     text-align: right;
-    color: darkblue;
+    color: gold;
+    display: inline-block;
+    background-color: darkblue;
 }
 .acknowledgement{
     font-size: 20px;
     text-align: right;
-    color: darkblue;
+    color: gold;
+    display: inline-block;
+    background-color: darkblue;
+
 }
 .menu{
     color: brown;
@@ -31,23 +38,33 @@ body{
 }
 .homeacknowledge{
     font-size: 20px;
-    color: darkblue;
+    color: gold;
+    display: inline-block;
+    background-color: darkblue;
 }
 .homeaboutme{
     font-size: 20px;
-    color: darkblue;
+    color: gold;
+    display: inline-block;
+    background-color: darkblue;
 }
 .blogaboutme{
     font-size: 20px;
-    color: darkblue;
+    color: gold;
+    display: inline-block;
+    background-color: darkblue;
 }
 .homeaboutblog{
     font-size: 20px;
-    color: darkblue;
+    color: gold;
+    display: inline-block;
+    background-color: darkblue;
 }
 .aboutblog{
     font-size: 20px;
-    color: darkblue;
+    color: gold;
+    display: inline-block;
+    background-color: darkblue;
 }
 .proverb47aboutblog{
     font-size: 50px;
@@ -65,11 +82,15 @@ body{
 .tableofcontentindex{
     font-size: 20px;
     text-align: right;
-    color: darkblue;
+    color: gold;
+    display: inline-block;
+    background-color: darkblue;
 }
 .homecontent{
     font-size: 20px;
-    color: darkblue;
+    color: gold;
+    display: inline-block;
+    background-color: darkblue;
 }
 .howtobuildarelationshipcontent{
     font-size: 20px;
